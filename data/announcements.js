@@ -33,4 +33,12 @@
 
 const ANNOUNCEMENTS = [
 
+ * {
+ *   id: "ann-001",
+ *   title: "Website ishaundwa 😂",
+ *   message: "Na mtume picha zenu bana...sitawasaka jooh.",
+ *   category: "random",
+ *   date: "2026-08-3",
+ *   pinned: true
+ * },
 ];
