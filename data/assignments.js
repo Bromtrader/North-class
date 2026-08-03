@@ -38,5 +38,15 @@
  */
 
 const ASSIGNMENTS = [
-
+{
+    id: "asg-001",
+    subject: "Mathematics",
+    teacher: "Mr. BROM",
+    title: "Trigonometry Problem Set",
+    description: "Questions 1–20 from Chapter 7.",
+    dueDate: "2026-08-15",
+    status: "In Progress",
+    priority: "High",
+    progress: 40
+  },
 ];
