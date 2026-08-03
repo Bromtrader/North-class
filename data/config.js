@@ -84,7 +84,7 @@ const CONFIG = {
     file: "assets/audio/background-music.mp3",       // replace this file to change the track
     trackTitle: "Class Theme",
     defaultVolume: 0.35,
-    autoplay: false                                  // browsers block autoplay with sound — keep this false
+    autoplay: true                                 // browsers block autoplay with sound — keep this false
   }
 
 };
