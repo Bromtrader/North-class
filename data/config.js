@@ -53,7 +53,8 @@ const CONFIG = {
     phone: "254745477064",
     address: "nairobi,KE",
     // Paste a full Google Maps "embed" iframe src URL here (Share → Embed a map).
-    mapEmbedUrl: "https://maps.app.goo.gl/aksUYaVkFaf1zafq6",
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.111219401096!2d35.0598141734902!3d1.0787186623904395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178227a56222b4b9%3A0x943bcbe7e5f23b17!2sGoseta%20Boys%20High%20School!5e0!3m2!1sen!2ske!4v1785781207665!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
     socials: {
       instagram:"https://www.instagram.com/rimuru._.tempest14?igsh=MWk1cnVrbXRwZms1dw==",
       x: "",
