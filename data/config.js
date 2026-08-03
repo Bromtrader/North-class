@@ -53,7 +53,7 @@ const CONFIG = {
     phone: "254745477064",
     address: "nairobi,KE",
     // Paste a full Google Maps "embed" iframe src URL here (Share → Embed a map).
-    mapEmbedUrl: "",
+    mapEmbedUrl: "https://maps.app.goo.gl/aksUYaVkFaf1zafq6",
     socials: {
       instagram:"https://www.instagram.com/rimuru._.tempest14?igsh=MWk1cnVrbXRwZms1dw==",
       x: "",
