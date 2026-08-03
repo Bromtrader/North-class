@@ -17,9 +17,9 @@ const CONFIG = {
     title: "NORTH CLASS",                 // Big animated title on the homepage
     shortName: "NORTH CLASS",             // Used in the navbar + browser tab
     tagline: "Elite Class Portal",        // Small eyebrow text above the title
-    motto: "Together We Rise.",           // Class motto shown under the title
-    welcomeMessage: "Welcome to our class portal — built by us, for us.",
-    schoolName: "",                       // e.g. "Northfield High School"
+    motto: "BROM is him 😭🙏",           // Class motto shown under the title
+    welcomeMessage: "Welcome to our class portal — built by brom, for us.",
+    schoolName: "GOSETA HIGH SCHOOL",                       // e.g. "Northfield High School"
     logo: "assets/images/logo/logo.svg",  // Replace this file to change the logo
     favicon: "assets/icons/favicon.svg",  // Replace this file to change the favicon
     foundedYear: "2026"                   // Shown in the footer copyright line
@@ -49,16 +49,16 @@ const CONFIG = {
 
   // ---------- CONTACT PAGE ----------
   contact: {
-    email: "",
-    phone: "",
-    address: "",
+    email: "bromtrader199@gmail.com",
+    phone: "254745477064",
+    address: "nairobi,KE",
     // Paste a full Google Maps "embed" iframe src URL here (Share → Embed a map).
     mapEmbedUrl: "",
     socials: {
-      instagram: "",
+      instagram: "https://www.instagram.com/rimuru._.tempest14?igsh=MWk1cnVrbXRwZms1dw==",
       x: "",
       facebook: "",
-      whatsapp: "",
+      whatsapp: "wa.me/254745477064",
       tiktok: ""
     }
   },
@@ -66,14 +66,14 @@ const CONFIG = {
   // ---------- TEACHER CONTACTS ----------
   // Shown as cards on the Contact page. Add as many as you like.
   teachers: [
-    /*
+    
     {
-      name: "",
+      name: "BROM",
       role: "Class Teacher",
-      subject: "",
-      email: "",
-      phone: "",
-      photo: "assets/images/students/example.jpg"
+      subject: "MATHS",
+      email: "bromtrader199@gmail.com",
+      phone: "254745477064",
+      photo: "https://www.image2url.com/r2/default/images/1785562176413-85ad9fb8-d753-4177-a3d1-d9169e54ca66.jpg"
     },
     */
   ],
