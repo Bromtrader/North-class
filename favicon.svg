@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="NORTH CLASS favicon">
+  <defs>
+    <linearGradient id="ncAuroraFav" x1="4" y1="4" x2="60" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B6BFF"/>
+      <stop offset="52%" stop-color="#35FFC0"/>
+      <stop offset="100%" stop-color="#FF5FA8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#05060c"/>
+  <path d="M32 10 L40 30 L32 38 L24 30 Z" fill="url(#ncAuroraFav)"/>
+  <path d="M32 54 L24 34 L32 26 L40 34 Z" fill="url(#ncAuroraFav)" opacity="0.6"/>
+  <circle cx="32" cy="32" r="5" fill="#05060c" stroke="url(#ncAuroraFav)" stroke-width="2.5"/>
+</svg>

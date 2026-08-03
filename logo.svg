@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="NORTH CLASS logo">
+  <defs>
+    <linearGradient id="ncAurora" x1="4" y1="4" x2="60" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B6BFF"/>
+      <stop offset="52%" stop-color="#35FFC0"/>
+      <stop offset="100%" stop-color="#FF5FA8"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" stroke="url(#ncAurora)" stroke-width="2" opacity="0.5"/>
+  <path d="M32 6 L38 28 L32 34 L26 28 Z" fill="url(#ncAurora)"/>
+  <path d="M32 58 L26 36 L32 30 L38 36 Z" fill="url(#ncAurora)" opacity="0.55"/>
+  <path d="M6 32 L28 26 L34 32 L28 38 Z" fill="url(#ncAurora)" opacity="0.35"/>
+  <path d="M58 32 L36 38 L30 32 L36 26 Z" fill="url(#ncAurora)" opacity="0.35"/>
+  <circle cx="32" cy="32" r="4.5" fill="#05060c" stroke="url(#ncAurora)" stroke-width="2"/>
+</svg>
