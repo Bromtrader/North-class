@@ -73,7 +73,7 @@
         return;
       }
 
-      const to = (typeof CONFIG !== "undefined" && CONFIG.contact?.email) || "";
+      const to = (typeof CONFIG !== "undefined" && CONFIG.contact?.email) || "bromtrader199@gmail.com";
       const body = `From: ${name} (${email})\n\n${message}`;
       const mailto = `mailto:${encodeURIComponent(to)}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
