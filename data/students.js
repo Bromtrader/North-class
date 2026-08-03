@@ -56,4 +56,14 @@ const STUDENTS = [
   futureCareer: "PROPHET",
   bio: "NOISE MAKER 😭🙏....HAKOSI KWA OFFENSE SHEET"
 },
+  {
+  id: "std-001",
+  name: "LAMECK K.",
+  admissionNumber: "sneaked in school so he got no adm",
+  photo: "",
+  nickname: "chairman",
+  favoriteSubject: "CHEM (ochuna)",
+  futureCareer: "NIGERIAN MOVIE ACTOR",
+  bio: "CHAIRMAN WA DARASA....ATAKUWA PREFECT AFTER ADRIAN"
+},
 ];
