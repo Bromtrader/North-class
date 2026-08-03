@@ -37,7 +37,7 @@
 
 const STUDENTS = [
 {
-  id: "std-002",
+  id: "std-001",
   name: "Brom YT",
   admissionNumber: "8500",
   photo: "https://www.image2url.com/r2/default/images/1785562176413-85ad9fb8-d753-4177-a3d1-d9169e54ca66.jpg",
@@ -47,7 +47,7 @@ const STUDENTS = [
   bio: "DEVELOPER WA DARO .....AKO JUU SECTOR YA TECH CHUO MZIMA"
 },
   {
-  id: "std-001",
+  id: "std-002",
   name: "SHAWN MARIO",
   admissionNumber: "chop rice",
   photo: "https://image-link.edgeone.app/1785754972255-w7umrs.jpg",
@@ -57,7 +57,7 @@ const STUDENTS = [
   bio: "NOISE MAKER 😭🙏....HAKOSI KWA OFFENSE SHEET"
 },
   {
-  id: "std-001",
+  id: "std-003",
   name: "LAMECK K.",
   admissionNumber: "sneaked in school so he got no adm",
   photo: "",
