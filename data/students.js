@@ -36,8 +36,14 @@
  */
 
 const STUDENTS = [
-
-  // Leave this array empty until you're ready to add real students.
-  // Duplicate the example above for each new student.
-
+{
+  id: "std-002",
+  name: "Brom YT",
+  admissionNumber: "8500",
+  photo: "https://www.image2url.com/r2/default/images/1785562176413-85ad9fb8-d753-4177-a3d1-d9169e54ca66.jpg",
+  nickname: "RIMURU",
+  favoriteSubject: "P.E",
+  futureCareer: "SOFTWARE DEVELOPER",
+  bio: "DEVELOPER WA DARO .....AKO JUU SECTOR YA TECH CHUO MZIMA"
+},
 ];
