@@ -20,16 +20,23 @@
  *
  * EXAMPLE:
  *
- * {
- *   id: "evt-001",
- *   title: "Inter-House Sports Day",
- *   description: "Annual track and field competition on the main field.",
- *   date: "2026-09-12T09:00:00",
- *   location: "Main School Field",
- *   category: "Sports"
- * },
+  {
+    id: "evt-001",
+    title: "Inter-House Sports Day",
+    description: "Annual track and field competition on the main field.",
+    date: "2026-09-12T09:00:00",
+    location: "Main School Field",
+    category: "Sports"
+  },
  */
 
 const EVENTS = [
-
+{
+    id: "evt-001",
+    title: "Inter-SCHOOLS Sports Day",
+    description: "CU FUNCTION WITH MONICA WILL ALSO HAPPEN.",
+    date: "2026-09-12T09:00:00",
+    location: "Main School Field",
+    category: "Sports"
+  },
 ];
