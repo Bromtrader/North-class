@@ -46,4 +46,14 @@ const STUDENTS = [
   futureCareer: "SOFTWARE DEVELOPER",
   bio: "DEVELOPER WA DARO .....AKO JUU SECTOR YA TECH CHUO MZIMA"
 },
+  {
+  id: "std-001",
+  name: "SHAWN MARIO",
+  admissionNumber: "chop rice",
+  photo: "https://image-link.edgeone.app/1785754972255-w7umrs.jpg",
+  nickname: "MAJEMBE",
+  favoriteSubject: "C.R.E",
+  futureCareer: "PROPHET",
+  bio: "NOISE MAKER 😭🙏....HAKOSI KWA OFFENSE SHEET"
+},
 ];
