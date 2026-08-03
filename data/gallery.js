@@ -30,5 +30,11 @@
  */
 
 const GALLERY = [
-
+{
+  id: "img-005",
+  src: "https://image-link.edgeone.app/1785754972255-w7umrs.jpg",
+  category: "GOAT",
+  caption: "World cup U20 Jan 2026",
+  alt: "The goat shidou"
+},
 ];
