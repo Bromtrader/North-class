@@ -55,7 +55,7 @@ const CONFIG = {
     // Paste a full Google Maps "embed" iframe src URL here (Share → Embed a map).
     mapEmbedUrl: "",
     socials: {
-      instagram: "https://www.instagram.com/rimuru._.tempest14?igsh=MWk1cnVrbXRwZms1dw==",
+      instagram:"https://www.instagram.com/rimuru._.tempest14?igsh=MWk1cnVrbXRwZms1dw==",
       x: "",
       facebook: "",
       whatsapp: "wa.me/254745477064",
@@ -73,9 +73,9 @@ const CONFIG = {
       subject: "MATHS",
       email: "bromtrader199@gmail.com",
       phone: "254745477064",
-      photo: "https://www.image2url.com/r2/default/images/1785562176413-85ad9fb8-d753-4177-a3d1-d9169e54ca66.jpg"
+        photo:"https://www.image2url.com/r2/default/images/1785562176413-85ad9fb8-d753-4177-a3d1-d9169e54ca66.jpg"
     },
-    */
+    
   ],
 
   // ---------- BACKGROUND MUSIC ----------
